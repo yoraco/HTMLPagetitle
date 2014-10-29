@@ -3,32 +3,33 @@
  **/
 #extension_page_title_document_page_title_wrapper_id {
 	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	color: white;
+	top: 0 !important;
+	left: 0 !important;
+	right: 0 !important;
+	color: white !important;
 
 	position: fixed !important;
-	padding: 0px;
-	z-index: 99999999;
-	margin: 0px;
-	border-bottom: solid 3px #002752;
-	padding-bottom: 2px;
-	background-color:#002752;
-	background:#002752;
+	padding: 0px !important;
+	z-index: 99999999 !important;
+	margin: 0px !important;
+	border-bottom: solid 3px #002752 !important;
+	padding-bottom: 2px !important;
+	background-color:#002752 !important;
+	background:#002752 !important;
 }
 
 #extension_page_title_document_page_title_id{
-	font-size: 20px;
-	font-weight: 700;
-	margin: 0px;
+	font-size: 20px !important;
+	font-weight: 700 !important;
+	margin: 0px !important;
+	color: white !important;
 }
 
 #extension_page_title_document_page_title_label_id{
-	font-size: 12px;
-	font-weight: 100;
-	margin:0px;
-	text-transform: uppercase;
-	color: #EEE;
+	font-size: 12px !important;
+	font-weight: 100 !important;
+	margin:0px !important;
+	text-transform: uppercase !important;
+	color: #EEE !important;
 }
 
